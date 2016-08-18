@@ -18,6 +18,6 @@ For Chrome:
     
 Screenshot
 
-![Alt tag](https://cloud.githubusercontent.com/assets/8318959/17767500/cc359946-6562-11e6-841d-f0e44004d008.png)
+![Alt tag](https://cloud.githubusercontent.com/assets/8318959/17768361/3f0a887a-6566-11e6-8049-c558e7d2f670.png)
 
 
