@@ -2,7 +2,7 @@
 
 gmaps use http://github.com/HPNeo/gmaps
 Screenshot
-![Alt text](screenshot.png?raw=true "Title")
+![Alt tag](https://raw.githubusercontent.com/HassenLin/Necrobot_Path/master/screenshot.png)
 
 Install: 
   1. Put files to your necrobot folder.
