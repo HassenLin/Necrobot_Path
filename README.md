@@ -24,7 +24,7 @@ English
  <pre>   
 中文
   下載：
-    選擇 'Clone or Download' => 'Download Zip'.<p>
+    選擇 'Clone or Download' => 'Download Zip'.
   
   安裝：
     1. 解壓縮 Necrobot_Path-master.zip.
