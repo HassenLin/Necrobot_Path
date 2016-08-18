@@ -1,5 +1,7 @@
 # Necrobot_Path
 
+## Use Internet Explorer or Chrome Browser to show Necrobot path in google map.
+
 gmaps use http://github.com/HPNeo/gmaps
 
 
