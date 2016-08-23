@@ -12,17 +12,16 @@ English
 *  Install: 
     - Decompress Necrobot_Path-master.zip.
     2. Copy all files in folder 'Necrobot_Path-master' to your necrobot folder.
-  
-+  For IE:
-    - Change the 'LastPos.ini' path in 'elevation_routes_ie.html' to your necrobot onfig folder path. 
-      (For Example: value='R:/Necrobot/Config/LastPos.ini' =>   value='Driver:/Path to Necrobot/Config/LastPos.ini' )
-    - Right click on 'elevation_routes_ie.html', then select open with 'Internet Explore'.  
+
+  Support 2 Browser:  
++  If you want use IE: (Easy way)
+    - Right click on 'Necrobot_Path.html', then select open with 'Internet Explore'.  
   
 
-+  For Chrome:
++  If you want use Chrome: (More difficult)
     - Close all chrome windows. Run chrome with --allow-file-access-from-files. 
       (For Example: "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --profile-directory=Default --allow-file-access-from-files )
-    - Right click on 'elevation_routes_chrome.html', then select open with 'Chrome'.
+    - Right click on 'Necrobot_Path.html', then select open with 'Chrome'.
     
 Chinese
 *  下載：
@@ -31,17 +30,15 @@ Chinese
 *  安裝：
     - 解壓縮 Necrobot_Path-master.zip.
     - 複製 'Necrobot_Path-master' 這個資料夾裡所有的檔案到你的 necrobot 資料夾裡.
-  
-+  用IE開啓：
-    - 修改  'elevation_routes_ie.html' 裡面 'LastPos.ini' 的路徑到你的 necrobot config資料夾的路徑. 
-      (例如: value='R:/Necrobot/Config/LastPos.ini' =>   value='Driver:/Path to Necrobot/Config/LastPos.ini' )
-    - 用滑鼠右擊 'elevation_routes_ie.html', 選擇'開啟檔案'然後選擇 'Internet Explore'.  
+支援兩種瀏覽器  
++  如果你使用IE開啓： (較簡單)
+    - 用滑鼠右擊 'Necrobot_Path.html', 選擇'開啟檔案'然後選擇 'Internet Explore'.  
   
 
-+  用Chrome：
++  用Chrome： (較困難)
     - 關閉所有的 chrome 視窗. 使用 --allow-file-access-from-files 參數來執行 chrome. 
       (例如: "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --profile-directory=Default --allow-file-access-from-files )
-    - 用滑鼠右擊 'elevation_routes_chrome.html', 選擇'開啟檔案'然後選擇 'Chrome'.   
+    - 用滑鼠右擊 'Necrobot_Path.html', 選擇'開啟檔案'然後選擇 'Chrome'.   
 
 
 
